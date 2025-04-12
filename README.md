@@ -6,7 +6,7 @@ Imagine processing data without having to decrypt it! Think machine learning wit
 
 What else?  I do online math help via the [Math Help group](https://www.facebook.com/groups/mathhelp) on Facebook.  Some interesting problems become inspriation for Jupyter notebooks.  One fun problem was [helping to create a Christmas tree decor](notebooks/xmas.ipynb)!
 
-<img src="https://github.com/RobertHolderIII/mathhelp/blob/master/img/xmas.png" alt="xmas" width="400"/>
+<img src="https://github.com/RobertHolderIII/mathhelp/blob/master/img/xmas.png" alt="xmas" width="300"/>
 
 <!--
 ![xmas tree](https://github.com/RobertHolderIII/mathhelp/blob/master/img/xmas.png)
