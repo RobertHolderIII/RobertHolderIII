@@ -1,4 +1,17 @@
-## Hi there 👋
+## Thanks for stopping by!
+
+I'm currently exploring LLM technologies in my [LLM repo](LLM).  Anything that becomes particularly neat, I'll elevate to a top-level repo.
+
+Imagine processing data without having to decrypt it! Think machine learning without the privacy concerns.  I spent four years exploring PETs, including homomorphic encryption and secure multiparty computation (SMPC).  I have a couple toys in the works....
+
+What else?  I do online math help via the [Math Help group](https://www.facebook.com/groups/mathhelp) on Facebook.  Some interesting problems become inspriation for Jupyter notebooks.  One fun problem was [helping to create a Christmas tree decor](notebooks/xmas.ipynb)!
+
+<img src="https://github.com/RobertHolderIII/mathhelp/blob/master/img/xmas.png" alt="xmas" width="400"/>
+
+<!--
+![xmas tree](https://github.com/RobertHolderIII/mathhelp/blob/master/img/xmas.png)
+
+
 
 <!--
 **RobertHolderIII/RobertHolderIII** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
