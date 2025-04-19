@@ -3,6 +3,8 @@
 #### LLM stuff
 I'm currently exploring LLM technologies in my [LLM repo](https://github.com/RobertHolderIII/LLM).  Anything that becomes particularly neat, I'll elevate to a top-level repo.
 
+In the meantime, especially for the Trekkies, feel free to play with my [Deep Space Nine chatbot](https://huggingface.co/spaces/robertholder/deep-space-nine).
+
 #### Crytography stuff
 Imagine processing data without having to decrypt it! Think machine learning without the privacy concerns.  I spent four years exploring PETs, including homomorphic encryption and secure multiparty computation (SMPC).  I have a [simple demo](https://github.com/RobertHolderIII/SMPC) up, with more interesting toys in the works....
 
