@@ -11,7 +11,7 @@ Imagine processing data without having to decrypt it! Think machine learning wit
 #### Math stuff
 What else?  I do online math help via the [Math Help group](https://www.facebook.com/groups/mathhelp) on Facebook.  Some interesting problems become inspriation for Jupyter [notebooks](https://github.com/RobertHolderIII/mathhelp/tree/master/notebooks).  One fun problem was [helping to create a Christmas tree decor](https://github.com/RobertHolderIII/mathhelp/blob/master/notebooks/xmas.ipynb)!
 
-<img src="https://github.com/RobertHolderIII/mathhelp/blob/master/img/xmas2.png" alt="xmas" width="300"/>
+<img src="https://github.com/RobertHolderIII/mathhelp/blob/master/img/xmas2.png" alt="xmas" width="600"/>
 
 <!--
 ![xmas tree](https://github.com/RobertHolderIII/mathhelp/blob/master/img/xmas.png)
